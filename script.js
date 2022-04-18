@@ -10,6 +10,7 @@ const $overlay = document.getElementById('overlay')
 let favorites = []
 
 
+
 function buildFavorites(){
     const html =[]
 
